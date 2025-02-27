@@ -1,6 +1,7 @@
 # NextechDemo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.8.
+Before the run project `ng serve`, Run backend [API](https://github.com/MrMJain/NewsProvider_Demonstration).
 
 ## Development server
 
